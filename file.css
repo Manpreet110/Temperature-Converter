@@ -1,0 +1,27 @@
+
+    h1 {
+        text-align: center;
+    }
+
+    #container {
+        text-align: center;
+        padding: 30px;
+        background-color: darkgoldenrod;
+        border-color: crimson;
+
+    }
+
+    .input-div {
+        display: inline-block;
+        margin-bottom: 30px;
+        margin-right: 20px;
+        text-align: center;
+        background-color: cornflowerblue;
+        border-color: chartreuse;
+    }
+
+   
+    #fah {
+        background-color: bisque;
+        border-color: darkred;
+    }
